@@ -1,0 +1,14 @@
+[project]
+name = "paranoia-botnet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "hydrogram>=0.2.0",
+    "pydantic-settings>=2.11.0",
+    "pyrogram>=2.0.106",
+    "rich>=14.1.0",
+    "telethon>=1.41.2",
+    "tgcrypto>=1.2.5",
+]
